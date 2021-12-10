@@ -39,7 +39,7 @@ const BcChart = () => {
             {
               label: "level of thiccness",
               data: bitVal,
-             // backgroundColor: ["rgba(75, 192, 192, 0.6)"],
+              backgroundColor: ["rgba(75, 192, 192, 0.6)"],
               borderWidth: 4
             }
           ]

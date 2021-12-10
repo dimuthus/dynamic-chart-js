@@ -21,7 +21,7 @@ const NavBar = () => {
             renders the first one that matches the current URL. */}
         <Switch>
          
-          <Route path="/Dankmemes" component={BcChart}>
+          <Route path="/" component={BcChart}>
             <BcChart />
           </Route>
         </Switch>

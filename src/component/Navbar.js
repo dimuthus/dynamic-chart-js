@@ -14,13 +14,6 @@ const NavBar = () => {
     <ReactBootStrap.Navbar collapseOnSelect expand="xl" bg="danger" variant="dark">
   <ReactBootStrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <ReactBootStrap.Navbar.Collapse id="responsive-navbar-nav">
-   
-    
-    <Link to="/Dankmemes">
-    <ReactBootStrap.Nav.Link eventKey={2} href="#memes">
-        Dank memes
-      </ReactBootStrap.Nav.Link>
-      </Link>
   </ReactBootStrap.Navbar.Collapse>
 </ReactBootStrap.Navbar>
         </div>
